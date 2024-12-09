@@ -1,6 +1,6 @@
 ({
   name: 'compose',
-  length: [300, 600],
+  length: [300, 650],
   test: compose => {
     const inc = x => ++x;
     const twice = x => x * 2;

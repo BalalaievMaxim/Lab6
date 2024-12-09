@@ -1,3 +1,5 @@
-## Композиция функций
+## Lab6
 
-[![Композиция функций (pipe, compose) в JavaScript](https://img.youtube.com/vi/xS9FicVrOTI/0.jpg)](https://www.youtube.com/watch?v=xS9FicVrOTI)
+Laboratory work number 6 for Gendev course in KPI
+
+by Balalaiev Maxim, IM-43
